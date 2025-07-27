@@ -1,76 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Feed Awin - Produtos Variados Kabum</title>
+    <title>Feed Awin - Kabum Memórias RAM</title>
     <link>https://ianfreiree.github.io/meu-feed-awin/</link>
-    <description>Feed com 15 produtos variados da Kabum via Awin</description>
+    <description>Produtos da Awin com imagens destacadas</description>
 
     <item>
-      <title>Kit Upgrade ASUS Intel Core i5-10400F + Placa B460M + 16GB DDR4</title>
-      <link>https://www.awin1.com/pclick.php?p=39626029999&a=2094969&m=17729</link>
+      <title>Memória RAM Rise Mode 4GB DDR3 1600MHz</title>
+      <link>https://www.awin1.com/pclick.php?p=36168613821&amp;a=2094969&amp;m=17729</link>
       <description><![CDATA[
-        <strong>Preço:</strong> R$1.599,99<br/>
+        <strong>Preço:</strong> R$37,99<br/>
         <strong>Loja:</strong> Kabum<br/>
-        Kit com processador, placa-mãe e memória.
+        Memória DDR3 ideal para computadores básicos.
       ]]></description>
-      <enclosure url="https://images0.kabum.com.br/produtos/fotos/540985/kit-upgrade-asus-intel-core-i5-10400f-placa-b460m-memoria-16gb_1732680196_g.jpg" type="image/jpeg" />
-      <pubDate>Sun, 27 Jul 2025 16:26:53 GMT</pubDate>
-      <guid>https://www.awin1.com/pclick.php?p=39626029999&a=2094969&m=17729</guid>
+      <enclosure url="https://images2.productserve.com/?w=200&amp;h=200&amp;bg=white&amp;trim=5&amp;t=letterbox&amp;url=images8.kabum.com.br%2Fprodutos%2Ffotos%2F99428%2Fmemoria-rise-mode-4gb-1600mhz-ddr3-rm-d3-4g1600v_1563977068_g.jpg" type="image/jpeg" />
+      <pubDate>Sun, 27 Jul 2025 14:00:00 GMT</pubDate>
+      <guid>https://www.awin1.com/pclick.php?p=36168613821&amp;a=2094969&amp;m=17729</guid>
     </item>
 
     <item>
-      <title>SSD Kingston NV2 1TB M.2 PCIe NVMe</title>
-      <link>https://www.awin1.com/pclick.php?p=39622471064&a=2094969&m=17729</link>
+      <title>Memória Gamer Rise Mode Aura 16GB DDR4 (Branca)</title>
+      <link>https://www.awin1.com/pclick.php?p=37440117516&amp;a=2094969&amp;m=17729</link>
       <description><![CDATA[
-        <strong>Preço:</strong> R$379,99<br/>
+        <strong>Preço:</strong> R$309,99<br/>
         <strong>Loja:</strong> Kabum<br/>
-        Alta velocidade de leitura e gravação.
+        Memória DDR4 com LEDs ARGB para setups brancos.
       ]]></description>
-      <enclosure url="https://images1.kabum.com.br/produtos/fotos/529735/ssd-kingston-nv2-1tb-m-2-2280-pcie-4-0-nvme-leitura-3500mb-s-e-gravacao-2100mb-s-snvs-1000g_1729351542_g.jpg" type="image/jpeg" />
-      <pubDate>Sun, 27 Jul 2025 16:16:53 GMT</pubDate>
-      <guid>https://www.awin1.com/pclick.php?p=39622471064&a=2094969&m=17729</guid>
+      <enclosure url="https://images1.kabum.com.br/produtos/fotos/513721/memoria-ram-gamer-rise-mode-aura-argb-16gb-3200mhz-ddr4-cl16-branco-rm-d4aw-16g-3200argb_1717594678_g.jpg" type="image/jpeg" />
+      <pubDate>Sun, 27 Jul 2025 13:30:00 GMT</pubDate>
+      <guid>https://www.awin1.com/pclick.php?p=37440117516&amp;a=2094969&amp;m=17729</guid>
     </item>
 
     <item>
-      <title>Monitor Gamer AOC 27" 165Hz Full HD</title>
-      <link>https://www.awin1.com/pclick.php?p=39622620378&a=2094969&m=17729</link>
+      <title>Memória Gamer Rise Mode Aura 16GB DDR4 (Preta)</title>
+      <link>https://www.awin1.com/pclick.php?p=37446691395&amp;a=2094969&amp;m=17729</link>
       <description><![CDATA[
-        <strong>Preço:</strong> R$899,99<br/>
+        <strong>Preço:</strong> R$273,99<br/>
         <strong>Loja:</strong> Kabum<br/>
-        Experiência fluida com taxa de 165Hz.
+        Performance e estilo para setups gamers pretos.
       ]]></description>
-      <enclosure url="https://images5.kabum.com.br/produtos/fotos/540984/monitor-gamer-aoc-27-165hz-full-hd-va-freesync-premium-1ms-mprt-hdmi-displayport-v27g2sp-00_1732678634_g.jpg" type="image/jpeg" />
-      <pubDate>Sun, 27 Jul 2025 16:06:53 GMT</pubDate>
-      <guid>https://www.awin1.com/pclick.php?p=39622620378&a=2094969&m=17729</guid>
+      <enclosure url="https://images0.kabum.com.br/produtos/fotos/513720/memoria-ram-gamer-rise-mode-aura-argb-16gb-3200mhz-ddr4-cl16-preto-rm-d4ab-16g-3200argb_1717595249_g.jpg" type="image/jpeg" />
+      <pubDate>Sun, 27 Jul 2025 13:00:00 GMT</pubDate>
+      <guid>https://www.awin1.com/pclick.php?p=37446691395&amp;a=2094969&amp;m=17729</guid>
     </item>
 
     <item>
-      <title>Fonte Corsair CV550 550W 80 Plus Bronze</title>
-      <link>https://www.awin1.com/pclick.php?p=39622483815&a=2094969&m=17729</link>
+      <title>Memória Rise Mode Value 16GB DDR4 para Notebook</title>
+      <link>https://www.awin1.com/pclick.php?p=36794536041&amp;a=2094969&amp;m=17729</link>
       <description><![CDATA[
-        <strong>Preço:</strong> R$289,99<br/>
+        <strong>Preço:</strong> R$229,99<br/>
         <strong>Loja:</strong> Kabum<br/>
-        Eficiência energética para PCs intermediários.
+        Ideal para notebooks modernos com bom desempenho.
       ]]></description>
-      <enclosure url="https://images6.kabum.com.br/produtos/fotos/540986/fonte-corsair-cv550-550w-80-plus-bronze-cp-9020210-br_1732680701_g.jpg" type="image/jpeg" />
-      <pubDate>Sun, 27 Jul 2025 15:56:53 GMT</pubDate>
-      <guid>https://www.awin1.com/pclick.php?p=39622483815&a=2094969&m=17729</guid>
+      <enclosure url="https://images2.kabum.com.br/produtos/fotos/480402/memoria-gamer-rise-mode-value-16gb-3200mhz-ddr4-cl16-para-notebook-rm-d4-16g-3200vn_1703002526_g.jpg" type="image/jpeg" />
+      <pubDate>Sun, 27 Jul 2025 12:30:00 GMT</pubDate>
+      <guid>https://www.awin1.com/pclick.php?p=36794536041&amp;a=2094969&amp;m=17729</guid>
     </item>
 
     <item>
-      <title>Headset Gamer Redragon Zeus X RGB 7.1</title>
-      <link>https://www.awin1.com/pclick.php?p=39622228073&a=2094969&m=17729</link>
+      <title>Memória Redragon Solar RGB 8GB DDR4 3600MHz</title>
+      <link>https://www.awin1.com/pclick.php?p=39622227205&amp;a=2094969&amp;m=17729</link>
       <description><![CDATA[
-        <strong>Preço:</strong> R$199,90<br/>
+        <strong>Preço:</strong> R$194,99<br/>
         <strong>Loja:</strong> Kabum<br/>
-        Áudio 7.1 e iluminação RGB imersiva.
+        Performance para gamers com iluminação RGB.
       ]]></description>
-      <enclosure url="https://images7.kabum.com.br/produtos/fotos/540974/headset-gamer-redragon-zeus-x-rgb-7-1-usb-preto-h510-rgb2_1732646095_g.jpg" type="image/jpeg" />
-      <pubDate>Sun, 27 Jul 2025 15:46:53 GMT</pubDate>
-      <guid>https://www.awin1.com/pclick.php?p=39622228073&a=2094969&m=17729</guid>
+      <enclosure url="https://images5.kabum.com.br/produtos/fotos/540975/memoria-redragon-solar-rgb-8gb-3600mhz-ddr4-cl18-gm-805_1732646310_g.jpg" type="image/jpeg" />
+      <pubDate>Sun, 27 Jul 2025 12:00:00 GMT</pubDate>
+      <guid>https://www.awin1.com/pclick.php?p=39622227205&amp;a=2094969&amp;m=17729</guid>
     </item>
-
-
 
   </channel>
 </rss>
